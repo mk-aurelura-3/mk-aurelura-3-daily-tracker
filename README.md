@@ -1,4 +1,3 @@
-# mk-aurelura-3-daily-tracker
 # MK-Aurelura-3 Daily Tracker
 
 4-bar daily performance tracker for 11th PCM + Design + Code + Research
